@@ -1,0 +1,14 @@
+layout_spectrum: 0.18963405559770763
+typography_spectrum: 0.8829350178129971
+color:
+  brandStrength: 0.3624677746556699
+  lightness: 0.34758972050622106
+  saturation: 0.9663346109446138
+  rhythmicContrast: 0.9146855175495148
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Area 51
